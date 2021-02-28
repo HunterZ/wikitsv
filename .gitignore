@@ -36,3 +36,4 @@
 /build/
 *.tsv
 *.txt
+!CMakeLists.txt
